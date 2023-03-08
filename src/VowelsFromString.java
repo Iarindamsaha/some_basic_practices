@@ -43,9 +43,6 @@ public class VowelsFromString {
             }
 
 
-
-
-
         }
 
         System.out.println("Number of A in The Sentence = " + countA);
