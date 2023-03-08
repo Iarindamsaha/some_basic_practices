@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71e40f29-bccf-4c3c-822d-ee63eb824937" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/loops/RemoveFromString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveFromString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VowelsFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VowelsFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOfString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
