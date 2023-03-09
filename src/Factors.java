@@ -8,9 +8,9 @@ public class Factors {
 
         for(int i = 2; i<input; i++){
 
-            while(input%i == 0){
+            while(input % i == 0){
 
-                System.out.print(i+",");
+                System.out.print(","+i);
                 input=input/i;
 
             }
