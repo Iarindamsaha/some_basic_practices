@@ -24,7 +24,7 @@ public class PrintCommaAnd {
         }
 
     public static void main(String[] args) {
-        String arr[] = {"Apple", "banana", "blueberry", "pear","grapes"};
+        String arr[] = {"Apple", "banana","HOF", "blueberry", "pear","grapes"};
         printComma(arr);
     }
 }
