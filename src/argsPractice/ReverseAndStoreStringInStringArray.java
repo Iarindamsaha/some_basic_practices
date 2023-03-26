@@ -1,4 +1,4 @@
-package org.cfppractice;
+package argsPractice;
 
 public class ReverseAndStoreStringInStringArray {
 
