@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71e40f29-bccf-4c3c-822d-ee63eb824937" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/argsLambdaDemo/UsingSupplierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/argsLambdaDemo/UsingSupplierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/cfppractice/PrineNumberFromAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/cfppractice/PrineNumberFromAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +125,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/cfppractice/PrineNumberFromAnArray.java</url>
+          <line>3</line>
+          <properties class="org.cfppractice.PrineNumberFromAnArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
